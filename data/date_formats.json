@@ -1,0 +1,9 @@
+{
+  "tesco": [{"sep": "-", "day": 2, "mnt": 2, "yr": 2}],
+  "supervalue": [],
+  "lidl": [{"sep": "/", "day": 2, "mnt": 2, "yr": 2}, {"identifers": ["Date:"]}],
+  "aldi": [{"sep": ".", "day": 2, "mnt": 2, "yr": 2}],
+  "dunnes": [{"sep": "/", "day": 2, "mnt": 2, "yr": 2}],
+  "spar": [{"identifers": ["DATE"]}],
+  "unknown": ["everything"]
+}
